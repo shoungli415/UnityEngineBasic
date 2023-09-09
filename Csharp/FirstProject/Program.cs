@@ -155,6 +155,14 @@ namespace FirstProject
             Console.WriteLine(somethingToPrint);
             Console.WriteLine($"영희의 나이는 {영희1.나이}살 입니다.");
 
+            int int1 = 1;
+            long long1 = int1; // 암시적 캐스팅
+            // 변수의 Promotion(승격)
+            // 크기가 더 큰 자료형 레지스터로 작은 데이터를 읽었을 때
+            // 읽는 과정에서 해당 데이터의 자료형이 바뀌는 현상
+
+            long long2 = 2;
+            int int2 = (int)long2; //명시적 캐스팅(형 변환)
         }
     }
 }
