@@ -125,8 +125,16 @@ namespace FirstProject
         bool j;
 
         // 메인함수, 프로그램 실행시 처음 호출되는 (실행되는) 함수.
-        static void Main(string[] args)
+        static void Main(strin g[] args)
         {
+            // 문자열형 string은 클래스 타입이기 때문에,
+            // 힙 영역에 객체를 만들고 해당 참조를 사용한다.
+            // 힙 영역에 할당하는 객체의 크기는 문자갯수x2byte + 1byte(null byte)\
+            // null byte가 붙는 이유는 문자열의 끝을 명시하기 위함.
+            string string1 = "Something blabla"; // 문자열 상수 표기는 ""로
+
+
+            
             // . 멤버 접근 연산자
             Console.WriteLine("Hello, World!");
 
@@ -142,6 +150,11 @@ namespace FirstProject
             Console.WriteLine(영희1.나이먹기(1));
             Console.WriteLine(영희1.나이);
             Console.WriteLine(영희2.나이);
+
+            string somethingToPrint = "영희의 나이는" + 영희1.나이.ToString() + "살 입니다";
+            Console.WriteLine(somethingToPrint);
+            Console.WriteLine($"영희의 나이는 {영희1.나이}살 입니다.");
+
         }
     }
 }
