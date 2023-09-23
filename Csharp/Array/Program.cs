@@ -90,10 +90,10 @@ namespace Array
                 if (input == "U") MoveDown();
                 else if (input == "R") MoveRight();
                 else if (input == "L") MoveLeft();
-                else Console.WriteLine("잘ㅁㄷ 입력.");
+                else Console.WriteLine("잘못된 입력.");
             }
 
-            Console.WriteLine("ㅂ물 기 끝!");
+            Console.WriteLine("보물 찾기 끝!");
         }    
 
         static void DrawMap()
@@ -115,9 +115,47 @@ namespace Array
             }
         }
 
-        static void MoveUp() { }
-        static void MoveDown() { }
-        static void MoveLeft() { }
+        static void MoveUp() 
+        {
+            {
+                //맵 범위 초과하는지 확인
+                if (y <= map.GetLength(1) - 1)
+                {
+                    Console.WriteLine("해당 방향으로 움직일 수 없습니다. 맵의 경계를 초과합니다.");
+                    return;
+                }
+
+                // 막혀있는지 확인
+                if (map[y, x + 1] == 1)
+                {
+                    Console.WriteLine("벽으로 막혀있다.");
+                    return;
+                }
+
+            }
+        static void MoveDown() 
+        { 
+
+            
+        }
+        static void MoveLeft() 
+        {
+        
+            //맵 범위 초과하는지 확인
+            if (x <= map.GetLength(1) - 1)
+            {
+                Console.WriteLine("해당 방향으로 움직일 수 없습니다. 맵의 경계를 초과합니다.");
+                return;
+            }
+
+               // 막혀있는지 확인
+               if (map[y, x + 1] == 1)
+               {
+                   Console.WriteLine("벽으로 막혀있다.");
+                   return;
+         
+
+            }
         static void MoveRight()
         {
             //맵 범위 초과하는지 확인
@@ -139,8 +177,6 @@ namespace Array
             x++;
             map[y, x] = 3;
             DrawMap();
-        }
-        
-            
+        }      
     }
 }

@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProject", "FirstProjec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators_\Operators.csproj", "{A0FBC9AC-F18F-4B26-B7EE-78125B41BD71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators_s", "Operators_s\Operators_s.csproj", "{9338F909-A4F0-4CC8-B6FA-69B95123DFA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators_s", "Operators_s\Operators_s.csproj", "{9338F909-A4F0-4CC8-B6FA-69B95123DFA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{0AB20D42-3000-4070-8F57-371DE64BA169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{0AB20D42-3000-4070-8F57-371DE64BA169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTypes", "EnumTypes\EnumTypes.csproj", "{4C537DA3-27CD-4F56-8659-61AAE8098BED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0AB20D42-3000-4070-8F57-371DE64BA169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB20D42-3000-4070-8F57-371DE64BA169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB20D42-3000-4070-8F57-371DE64BA169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C537DA3-27CD-4F56-8659-61AAE8098BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C537DA3-27CD-4F56-8659-61AAE8098BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C537DA3-27CD-4F56-8659-61AAE8098BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C537DA3-27CD-4F56-8659-61AAE8098BED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
