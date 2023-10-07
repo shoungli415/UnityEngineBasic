@@ -13,6 +13,14 @@
         Attack = 20
     }
 
+    // 열거형으로 Bit Flags를 정의하는 방법
+    public enum LayerMask
+    {
+        Default = 0 << 0, // 0
+        Ground = 1 << 0,  // 1
+        Player = 1 << 1,  // 2  
+        Enemy = 1 << 2,   // 4  
+    }
 
     class Player
     {
@@ -43,10 +51,76 @@
             // 어떤 타입을 Type 클래스 타입으로 반환 받고 싶으면 typeof(타입)라는 키워드를 쓸 수 있다.
             // Array 클래스 : 배열에 대한 편의 기능들을 제공하는 클래스
             Array array = Enum.GetValues(typeof(State));
+
+            // in 뒤의 있는 것을 차례대로 순회하면서 현재 순회 중인 아이템을 반환하는 구문인거 같은데..?
             foreach (var item in array) 
             {
                 Console.WriteLine(item);
             
+            }
+
+            // switch-case 구문
+            // break: 현재 구문을 탈출
+            // continue: 현재 라인에서 코드 흐름 끊고 다시 현재 구문 처음으로 돌아가서 실행
+            // return: 현재 할당된 함수를 종료하고 메모리 해제
+            /*switch (변수)
+            {
+                case 값1:
+                    break;
+                case 값2:
+                    {
+                        변수가 값1 또는 값2일 떄 실행할 내용
+                    }
+                    break;
+                default: 
+                    break;
+            }*/
+
+            switch (player.state)
+            {
+                case State.None:
+                    break;
+                case State.Idle:
+                    {
+                        // something to do when player is idle
+                    }
+                    break;
+                case State.Move:
+                    break;
+                case State.Jump:
+                case State.Fall:
+                    {
+                        //something to do when player is Jump Fall
+                    }
+                    break;
+                case State.Attack:
+                    break;
+                default:
+                    break;
+            }
+
+            string names = string.Empty;
+            switch (names)
+            {
+                case "철수":
+                    break;
+                case "영희":
+                    break;
+                default:
+                    break;
+            }
+
+            int colliderLayer = 3;
+            int colliderMask = 1 << 1 | 1 << 2;
+            if((1 << colliderLayer & colliderMask) > 0) 
+            { 
+            
+            }
+
+            LayerMask mask = LayerMask.Player | LayerMask.Enemy;
+            if((1 << colliderLayer & (uint)mask) > 0)
+            {
+
             }
         }
     }

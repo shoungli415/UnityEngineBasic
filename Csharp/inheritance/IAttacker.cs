@@ -1,12 +1,18 @@
-﻿using System;
+﻿using inheritance;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace inheritance
+namespace Inheritance
 {
-    internal interface Interface2
+    internal interface IAttacker
     {
+        float attackPower { get; }
+        float criticalGain { get; }
+
+
+        void Attack(IHp target, bool isCritical);
     }
 }
