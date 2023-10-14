@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 101800873}
   - component: {fileID: 101800872}
   - component: {fileID: 101800871}
+  - component: {fileID: 101800875}
   m_Layer: 5
   m_Name: PlayterStatusUI
   m_TagString: Untagged
@@ -225,6 +226,20 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 1.7}
   m_SizeDelta: {x: 200, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &101800875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101800870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99ee0f0e46e3bb5498b22cc0292ff921, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _hpBar: {fileID: 1542745270}
+  _player: {fileID: 1369522452}
 --- !u!1 &392666040
 GameObject:
   m_ObjectHideFlags: 0
@@ -568,6 +583,7 @@ GameObject:
   - component: {fileID: 930796028}
   - component: {fileID: 930796027}
   - component: {fileID: 930796026}
+  - component: {fileID: 930796029}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -638,19 +654,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 930796027}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1369522448}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &930796027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -689,6 +693,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 930796024}
   m_CullTransparentMesh: 1
+--- !u!114 &930796029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 930796024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06b4c0332dd62a45a63c1b579ac52ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _player: {fileID: 1369522452}
 --- !u!1 &979522425
 GameObject:
   m_ObjectHideFlags: 0
@@ -1056,7 +1073,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf45c7968d7217743800b0414a75797c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hp: 0
+  _hp: 100
   _hpMax: 100
 --- !u!1 &1471463823
 GameObject:
@@ -1234,7 +1251,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0.759
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
