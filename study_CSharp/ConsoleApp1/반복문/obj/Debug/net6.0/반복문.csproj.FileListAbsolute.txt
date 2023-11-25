@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\bin\Debug\net6.0\반복문.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\bin\Debug\net6.0\반복문.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\bin\Debug\net6.0\반복문.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\bin\Debug\net6.0\반복문.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\bin\Debug\net6.0\반복문.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\refint\반복문.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\반복문.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\반복문\obj\Debug\net6.0\ref\반복문.dll

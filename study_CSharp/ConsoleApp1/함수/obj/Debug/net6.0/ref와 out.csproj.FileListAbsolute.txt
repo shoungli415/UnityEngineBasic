@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\bin\Debug\net6.0\ref와 out.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\bin\Debug\net6.0\ref와 out.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\bin\Debug\net6.0\ref와 out.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\bin\Debug\net6.0\ref와 out.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\bin\Debug\net6.0\ref와 out.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\refint\ref와 out.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref와 out.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\함수\obj\Debug\net6.0\ref\ref와 out.dll
