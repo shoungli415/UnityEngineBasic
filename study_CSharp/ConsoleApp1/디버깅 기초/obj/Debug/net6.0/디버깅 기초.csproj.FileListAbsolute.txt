@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\bin\Debug\net6.0\디버깅 기초.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\bin\Debug\net6.0\디버깅 기초.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\bin\Debug\net6.0\디버깅 기초.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\bin\Debug\net6.0\디버깅 기초.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\bin\Debug\net6.0\디버깅 기초.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\refint\디버깅 기초.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\디버깅 기초.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\ConsoleApp1\디버깅 기초\obj\Debug\net6.0\ref\디버깅 기초.dll

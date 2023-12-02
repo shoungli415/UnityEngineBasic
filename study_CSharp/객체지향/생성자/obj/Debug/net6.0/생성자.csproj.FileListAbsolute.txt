@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\bin\Debug\net6.0\생성자.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\bin\Debug\net6.0\생성자.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\bin\Debug\net6.0\생성자.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\bin\Debug\net6.0\생성자.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\bin\Debug\net6.0\생성자.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\refint\생성자.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\생성자.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic\study_CSharp\객체지향\생성자\obj\Debug\net6.0\ref\생성자.dll

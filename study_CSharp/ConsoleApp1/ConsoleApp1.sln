@@ -7,11 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{561D1773-7877-496D-BD6F-BB6E09C486E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "반복문", "반복문\반복문.csproj", "{133CA7C5-7A38-440A-B69E-72037C97073F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "반복문", "반복문\반복문.csproj", "{133CA7C5-7A38-440A-B69E-72037C97073F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref와 out", "함수\ref와 out.csproj", "{17F73B99-2E31-47A7-A472-232FEC6F5A4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref와 out", "함수\ref와 out.csproj", "{17F73B99-2E31-47A7-A472-232FEC6F5A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "함수2", "함수2\함수2.csproj", "{6101FD30-DF24-45C3-8138-DF54FF65356B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "함수2", "함수2\함수2.csproj", "{6101FD30-DF24-45C3-8138-DF54FF65356B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "디버깅 기초", "디버깅 기초\디버깅 기초.csproj", "{42B0CD41-D541-4EF3-93D1-8A9CB0F7EB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG", "TextRPG\TextRPG.csproj", "{3154F86F-BC94-4796-9C77-DE93934ED95F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{6101FD30-DF24-45C3-8138-DF54FF65356B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6101FD30-DF24-45C3-8138-DF54FF65356B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6101FD30-DF24-45C3-8138-DF54FF65356B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B0CD41-D541-4EF3-93D1-8A9CB0F7EB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B0CD41-D541-4EF3-93D1-8A9CB0F7EB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B0CD41-D541-4EF3-93D1-8A9CB0F7EB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B0CD41-D541-4EF3-93D1-8A9CB0F7EB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3154F86F-BC94-4796-9C77-DE93934ED95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3154F86F-BC94-4796-9C77-DE93934ED95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3154F86F-BC94-4796-9C77-DE93934ED95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3154F86F-BC94-4796-9C77-DE93934ED95F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
